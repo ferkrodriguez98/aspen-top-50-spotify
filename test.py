@@ -9,9 +9,15 @@ import time
   
 #url of the page we want to scrape
 url = "https://www.radios-argentinas.org/fm-aspen-1023"
-  
+
+options = webdriver.ChromeOptions()
+
+options.add_argument('--headless')
+
 # initiating the webdriver. Parameter includes the path of the webdriver.
-driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
+# acordate de instalar el driver !
+driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=options)
+
 driver.get(url)
   
 # this is just to ensure that the page is loaded
@@ -25,8 +31,12 @@ html = driver.page_source
 # Now, we could simply apply bs4 to html variable
 soup = BeautifulSoup(html, "html.parser")
 
-# es un span con class np__info_principal
+div_latest_song = soup.find('div', class_="latest-song")
 
-song = soup.find('div', class_="latest-song")
+latest_song = div_latest_song.find('span', class_="song-name")
+latest_artist = div_latest_song.find('span', class_="artist-name")
 
-print(song)
+song_title = latest_song.find('p').text.strip()
+artist_name = latest_artist.text.strip()
+
+print(song_title + " - " + artist_name)
