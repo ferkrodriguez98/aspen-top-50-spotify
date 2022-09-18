@@ -9,18 +9,16 @@ import chromedriver_autoinstaller
 
 print("Starting...")
 
-chromedriver_autoinstaller.install()
-
 #url of the page we want to scrape
 url = "https://www.radios-argentinas.org/fm-aspen-1023"
 
 options = webdriver.ChromeOptions()
 
 options.add_argument('--headless')
+options.add_argument('--remote-debugging-port=9222')
 
 # initiating the webdriver. Parameter includes the path of the webdriver.
-
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(executable_path='./chromedriver', options=options)
 
 tracks = functions.get_tracks_from_file()
 
