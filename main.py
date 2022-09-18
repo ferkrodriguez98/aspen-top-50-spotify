@@ -15,7 +15,7 @@ options.add_argument('--headless')
 
 # initiating the webdriver. Parameter includes the path of the webdriver.
 # acordate de instalar el driver !
-driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=options)
+driver = webdriver.Chrome(executable_path='./chromedriver', options=options)
 
 tracks = functions.get_tracks_from_file()
 
@@ -43,6 +43,10 @@ song_title = latest_song.find('p').text.strip()
 artist_name = latest_artist.text.strip()
 
 track_id = functions.get_track_id(song_title, artist_name)
+
+with open('track_names.txt', 'a') as f:
+    f.write(song_title + " - " + artist_name + '\n')
+    f.close()
 
 if track_id != "None!":
     if len(tracks) != 0:

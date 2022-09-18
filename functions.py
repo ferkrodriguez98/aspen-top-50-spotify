@@ -10,8 +10,8 @@ def get_track_id(track, artist):
 
     if len(track['tracks']['items']) == 0:
         track_id = "None!"
-
-    track_id = track['tracks']['items'][0]['uri']
+    else:
+        track_id = track['tracks']['items'][0]['uri']
 
     return track_id
 
