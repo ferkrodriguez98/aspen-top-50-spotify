@@ -3,24 +3,37 @@ from selenium import webdriver # pip3 install selenium
 from selenium.webdriver.common.keys import Keys
 import time
 import functions
-import chromedriver_autoinstaller
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.utils import ChromeType
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 
 # this should run every 120 seconds
 
 print("Starting...")
 
+chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
 #url of the page we want to scrape
 url = "https://www.radios-argentinas.org/fm-aspen-1023"
 
-options = webdriver.ChromeOptions()
+chrome_options = Options()
 
-options.add_argument('--headless')
-options.add_argument('--remote-debugging-port=9222')
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
 
-# initiating the webdriver. Parameter includes the path of the webdriver.
-driver = webdriver.Chrome(executable_path='./chromedriver', options=options)
+for option in options:
+    chrome_options.add_argument(option)
 
-tracks = functions.get_tracks_from_file()
+# initiating the webdriver.
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
 #
 
@@ -53,6 +66,8 @@ with open('track_names.txt', 'a') as f:
     print("Adding song to track_names.txt...")
     f.write(song_title + " - " + artist_name + '\n')
     f.close()
+
+tracks = functions.get_tracks_from_file()
 
 if track_id != "None!":
     if len(tracks) != 0:
