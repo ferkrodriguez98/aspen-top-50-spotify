@@ -1,5 +1,3 @@
-#!/bin/bash -l
-
 import time
 from datetime import datetime
 import functions
