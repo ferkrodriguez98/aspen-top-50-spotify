@@ -78,6 +78,7 @@ if track_id != "None!":
             with open('track_names.txt', 'a') as f:
                 print("Adding song to track_names.txt...")
                 f.write(song + '\n')
+                print("Number of songs scraped is: " + str(len(songs)))
                 f.close()
     else:
         with open('track_names.txt', 'a') as f:
