@@ -101,3 +101,4 @@ def get_song(radio, url):
 get_song("aspen", "https://www.radios-argentinas.org/fm-aspen-1023")
 get_song("vorterix", "https://www.radios-argentinas.org/radio-vorterix")
 get_song("rock&pop", "https://www.radios-argentinas.org/radio-rock-and-pop")
+get_song("blue", "https://www.radios-argentinas.org/radio-blue")
