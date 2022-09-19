@@ -33,8 +33,8 @@ def top_50(tracks):
 
     return removed_duplicates[0:50]
 
-def get_tracks_from_file():
-    f = open("tracks.txt", "r")
+def get_lines_from_file(file):
+    f = open(file, "r")
 
     lines = f.read()
     tracks = lines.splitlines()
