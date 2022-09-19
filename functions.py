@@ -29,6 +29,8 @@ def replace_playlist(tracks):
 def top_50(tracks):
     sorted_tracks = list(chain.from_iterable(repeat(i, c) for i,c in Counter(tracks).most_common()))
 
+    print(sorted_tracks[0:20])
+
     removed_duplicates = list(set(sorted_tracks))
 
     return removed_duplicates[0:50]
