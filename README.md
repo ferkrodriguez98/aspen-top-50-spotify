@@ -1,4 +1,4 @@
-### ASPEN TOP 50
+## ASPEN TOP 50
 
 Las 50 canciones más escuchadas de Aspen en los últimos 7 días. Se actualiza dinámicamente usando la API de Spotify y scrapeando la web para saber que canción esta sonando.
 
@@ -8,7 +8,11 @@ Todos los días a las 00:00 se pushean los cambios a Git y se ejecuta el otro cr
 
 Las claves para la API de Spotify se consiguen creando una app en developer.spotify.com
 
-Desconozco totalmente si la mejor manera de realizarlo es esta.
+Desconozco totalmente si la mejor manera de realizarlo es esta, yo solo quiero ver que tan arriba está Africa de Toto.
+
+### Got Fork?
+
+Si estás aburrido y querés ver si la Triple T es la canción que más está sonando en la TKM podes forkear este repositorio, cambiar las credenciales, la url a la que le pegas para scrapear y listo.
 
 #### **Work in Progress**
 
