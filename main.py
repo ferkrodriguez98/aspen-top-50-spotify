@@ -11,108 +11,93 @@ from selenium.webdriver.chrome.service import Service
 # this should run every 120 seconds
 
 print("Starting...")
+print("------------------")
 
 chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
 
-#url of the page we want to scrape
-url = "https://www.radios-argentinas.org/fm-aspen-1023"
+# funcion que le pegue a la url y devuelva un track id
 
-chrome_options = Options()
+def get_song(radio, url):
 
-options = [
-    "--headless",
-    "--disable-gpu",
-    "--window-size=1920,1200",
-    "--ignore-certificate-errors",
-    "--disable-extensions",
-    "--no-sandbox",
-    "--disable-dev-shm-usage"
-]
+    #url of the page we want to scrape
+    #url = "https://www.radios-argentinas.org/fm-aspen-1023"
 
-for option in options:
-    chrome_options.add_argument(option)
+    chrome_options = Options()
 
-# initiating the webdriver.
-driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+    options = [
+        "--headless",
+        "--disable-gpu",
+        "--window-size=1920,1200",
+        "--ignore-certificate-errors",
+        "--disable-extensions",
+        "--no-sandbox",
+        "--disable-dev-shm-usage"
+    ]
 
-#
+    for option in options:
+        chrome_options.add_argument(option)
 
-print("Getting page source...")
+    # initiating the webdriver.
+    driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
-driver.get(url)
+    print("------------------")
+    print("Getting page source...")
 
-# this is just to ensure that the page is loaded
-time.sleep(5)
+    driver.get(url)
 
-html = driver.page_source
+    # this is just to ensure that the page is loaded
+    time.sleep(5)
 
-# this renders the JS code and stores all
-# of the information in static HTML code.
+    html = driver.page_source
 
-# Now, we could simply apply bs4 to html variable
-soup = BeautifulSoup(html, "html.parser")
+    # this renders the JS code and stores all
+    # of the information in static HTML code.
 
-div_latest_song = soup.find('div', class_="latest-song")
+    # Now, we could simply apply bs4 to html variable
+    soup = BeautifulSoup(html, "html.parser")
 
-latest_song = div_latest_song.find('span', class_="song-name")
-latest_artist = div_latest_song.find('span', class_="artist-name")
+    div_latest_song = soup.find('div', class_="latest-song")
 
-song_title = latest_song.find('p').text.strip()
-artist_name = latest_artist.text.strip()
+    latest_song = div_latest_song.find('span', class_="song-name")
+    latest_artist = div_latest_song.find('span', class_="artist-name")
 
-now = datetime.now()
-dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+    song_title = latest_song.find('p').text.strip()
+    artist_name = latest_artist.text.strip()
 
-song = song_title + " - " + artist_name + " // " + dt_string
+    song = song_title + " - " + artist_name
 
-track_id = functions.get_track_id(song_title, artist_name)
+    track_id = functions.get_track_id(song)
 
-print(song)
-print(track_id)
+    # forbidden songs (?)
+    # Chuck Buster: Earth 2 is terrible! - Patrick Marrinan
+    # Te Hacen Falta Vitaminas - Soda Stereo
 
-if track_id != "None!":
-    songs = functions.get_lines_from_file("track_names.txt")
+    print("------------------")
+    print(radio)
+    print(song)
+    print(track_id)
+    print("------------------")
 
-    if len(songs) != 0:
-        if song[0:5] != songs[-1][0:5]:
-            with open('track_names.txt', 'a') as f:
-                print("Adding song to track_names.txt...")
-                f.write(song + '\n')
-                print("Number of songs scraped is: " + str(len(songs)))
-                f.close()
-    else:
-        with open('track_names.txt', 'a') as f:
-            print("Adding first song to track_names.txt...")
-            f.write(song + '\n')
-            f.close()
+    functions.create_directory_if_not_exists(radio)
 
-    tracks = functions.get_lines_from_file("tracks.txt")
+    # forbidden songs
+    # Chuck Buster: Earth 2 is terrible! - Patrick Marrinan // No tengo idea por que aparece tanto
+    # Te Hacen Falta Vitaminas - Soda Stereo // Publicidad
+    # Birds of Prey // Publicidad
+    # Daycare - Huug // Ni idea man
+    # Red States Blue States
 
-    if len(tracks) != 0:
-        if track_id != tracks[-1]: # aca tengo cuidado de no agregarlo dos veces seguidas
-            with open('tracks.txt', 'a') as f:
-                print("Adding spotify uri to tracks.txt...")
-                f.write(track_id + '\n')
-                f.close()
-    else:
-        with open('tracks.txt', 'a') as f:
-                print("Adding first spotify uri to tracks.txt...")
-                f.write(track_id + '\n')
-                f.close()
+    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J"]
 
-else:
-    print("Couldn't get track id :(")
+    if track_id not in forbidden_tracks:
+        now = datetime.now()
+        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 
-    no_uri_songs = functions.get_lines_from_file("track_names_with_no_uri.txt")
+        song = song + " // " + dt_string + " // " + track_id
+        functions.write_track_to_files(song, track_id, radio)
 
-    if len(no_uri_songs) != 0:
-        if song[0:5] != no_uri_songs[-1][0:5]:
-            with open('track_names_with_no_uri.txt', 'a') as f:
-                print("Adding song to track_names_with_no_uri.txt...")
-                f.write(song + '\n')
-                f.close()
-    else:
-        with open('track_names_with_no_uri.txt', 'a') as f:
-                print("Adding first song to track_names_with_no_uri.txt...")
-                f.write(song + '\n')
-                f.close()
+    driver.quit()
+
+get_song("aspen", "https://www.radios-argentinas.org/fm-aspen-1023")
+get_song("vorterix", "https://www.radios-argentinas.org/radio-vorterix")
+get_song("rock&pop", "https://www.radios-argentinas.org/radio-rock-and-pop")

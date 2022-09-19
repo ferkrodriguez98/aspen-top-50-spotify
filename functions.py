@@ -2,25 +2,30 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from collections import Counter
 from itertools import repeat, chain
-import sys
+import os
+from pathlib import Path
+import re
+from datetime import datetime
 
-def get_track_id(track, artist):
+def get_track_id(song):
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth())
-    track = sp.search(q='artist:' + artist + ' track:' + track, type='track', limit=1)
+    
+    song = re.sub("[\(\[].*?[\)\]]", "", song)
 
-    if len(track['tracks']['items']) == 0:
+    track_search = sp.search(q=song, type='track', limit=1)
+
+    if len(track_search['tracks']['items']) == 0:
+        print("No results for song " + song)
         track_id = "None!"
     else:
-        track_id = track['tracks']['items'][0]['uri']
+        track_id = track_search['tracks']['items'][0]['uri']
 
     return track_id
 
-def replace_playlist(tracks):
+def replace_playlist(tracks, playlist_id):
     scope = "playlist-modify-public"
 
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-
-    playlist_id = '7bZVSBqJalnab6Yl6bGk3a' # constante
 
     sp.playlist_replace_items(playlist_id, items=tracks)
 
@@ -29,9 +34,7 @@ def replace_playlist(tracks):
 def top_50(tracks):
     sorted_tracks = list(chain.from_iterable(repeat(i, c) for i,c in Counter(tracks).most_common()))
 
-    print(sorted_tracks[0:20])
-
-    removed_duplicates = list(set(sorted_tracks))
+    removed_duplicates = list(dict.fromkeys(sorted_tracks))
 
     return removed_duplicates[0:50]
 
@@ -44,3 +47,79 @@ def get_lines_from_file(file):
     f.close()
 
     return tracks
+
+def get_songs_only_past_week(file):
+    tracks = get_lines_from_file(file)
+
+    # now = datetime.now()
+    # dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+
+    if len(tracks) > 21000: # estimating 300 songs per day?
+        tracks = tracks[-21000:]
+    
+    return tracks
+
+def create_directory_if_not_exists(radio):
+    PATH = './' + radio
+    if not os.path.exists(PATH):
+        os.makedirs(PATH)
+
+    fle = Path('./' + radio + '/track_names.txt')
+    fle.touch(exist_ok=True)
+    f = open(fle)
+
+    fle = Path('./' + radio + '/track_names_with_no_uri.txt')
+    fle.touch(exist_ok=True)
+    f = open(fle)
+
+    fle = Path('./' + radio + '/tracks.txt')
+    fle.touch(exist_ok=True)
+    f = open(fle)
+
+def write_track_to_files(song, track_id, radio):
+    if track_id != "None!":
+        songs = get_lines_from_file(radio + "/track_names.txt")
+
+        if len(songs) != 0:
+            if song[0:5] != songs[-1][0:5]:
+                with open(radio + '/track_names.txt', 'a') as f:
+                    print("Adding song to track_names.txt...")
+                    f.write(song + '\n')
+                    print("Number of songs scraped is: " + str(len(songs) + 1))
+                    f.close()
+        else:
+            with open(radio + '/track_names.txt', 'a') as f:
+                print("Adding first song to track_names.txt...")
+                f.write(song + '\n')
+                f.close()
+
+        tracks = get_lines_from_file(radio + "/tracks.txt")
+
+        if len(tracks) != 0:
+            if track_id != tracks[-1]: # aca tengo cuidado de no agregarlo dos veces seguidas
+                with open(radio + '/tracks.txt', 'a') as f:
+                    print("Adding spotify uri to tracks.txt...")
+                    f.write(track_id + '\n')
+                    f.close()
+        else:
+            with open(radio + '/tracks.txt', 'a') as f:
+                    print("Adding first spotify uri to tracks.txt...")
+                    f.write(track_id + '\n')
+                    f.close()
+
+    else:
+        print("Couldn't get track id :(")
+
+        no_uri_songs = get_lines_from_file(radio + "/track_names_with_no_uri.txt")
+
+        if len(no_uri_songs) != 0:
+            if song[0:5] != no_uri_songs[-1][0:5]:
+                with open(radio + '/track_names_with_no_uri.txt', 'a') as f:
+                    print("Adding song to track_names_with_no_uri.txt...")
+                    f.write(song + '\n')
+                    f.close()
+        else:
+            with open(radio + '/track_names_with_no_uri.txt', 'a') as f:
+                    print("Adding first song to track_names_with_no_uri.txt...")
+                    f.write(song + '\n')
+                    f.close()
