@@ -1,11 +1,12 @@
 ## RADIOS ARGENTINAS TOP 50
 
-Las 50 canciones más escuchadas en Aspen, Vorterix, Rock & Pop y Radio Blue en los últimos 7 días. Las playlists se actualizan dinámicamente cada 6 horas usando la API de Spotify y scrapeando la web para saber que canción esta sonando.
+Las 50 canciones más escuchadas en Aspen, Vorterix, Rock & Pop, Radio Blue y Mega en los últimos 7 días. Las playlists se actualizan dinámicamente cada 6 horas usando la API de Spotify y scrapeando la web para saber que canción esta sonando.
 
 - Aspen: https://open.spotify.com/playlist/7bZVSBqJalnab6Yl6bGk3a?si=4a2d479a1c1a4255
 - Vorterix: https://open.spotify.com/playlist/5yWsFE5mNDxV0ljNWX2EdR?si=334030a2d77f443b
 - Rock & Pop: https://open.spotify.com/playlist/3n1KqCxQ7J1WxDegFgTbJy?si=551eaf958e174fb4
 - Radio Blue: https://open.spotify.com/playlist/4L1aOpoWD9MKwcYT3vckdZ?si=46162d44119e4901
+- Mega: https://open.spotify.com/playlist/1zOvjRzzkfz2YAkJII1keY?si=87d8d3b73c054ba8
 
 Actualmente corre en mi computadora como una serie de cron jobs. Cada dos minutos se ejecuta el archivo main.py que scrapea la web "https://www.radios-argentinas.org/fm-aspen-1023" (en el caso de aspen) y con selenium obtiene el nombre de la canción que esta sonando. Luego, realizo una query con la API de Spotify que me devuelve la uri de la canción y la agrego al archivo tracks.txt. Si no consigue la uri, el nombre de la canción se agrega al archivo track_names_with_no_uri.txt. El archivo track_names.txt existe sin ninguna utilidad más que poder ver yo que canción es. 
 
@@ -33,5 +34,5 @@ Si estás aburrido y querés ver si la Triple T es la canción que más está so
 ##### To Do:
 - Meter esto en un server y no depender de mi computadora.
 - Que efectivamente sean las canciones de los últimos 7 días y no un estimado.
-- No sé que hacer para conseguir la URI de las canciones que no devuelve nada la query porque existir existen en Spotify.
+- No sé que hacer para conseguir la URI de las canciones que no devuelve nada la query porque existir existen en Spotify. La mejor manera de hacerlo por ahora fue mandar en la query directamente track + artist y sacar los () donde a veces decia Remastered 2009 o alguna cosa del estilo, esto bajo muchísimo la cantidad de canciones que no devolvían uri.
 - Ampliar a mas radios?

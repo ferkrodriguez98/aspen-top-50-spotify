@@ -85,9 +85,11 @@ def get_song(radio, url):
     # Te Hacen Falta Vitaminas - Soda Stereo // Publicidad
     # Birds of Prey // Publicidad
     # Daycare - Huug // Ni idea man
-    # Red States Blue States
+    # Red States Blue States // Ni idea
+    # Paisaje - Gilda // Publicidad
+    # Easy Listening Jazz Background // Cortina?
 
-    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J"]
+    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo"]
 
     if track_id not in forbidden_tracks:
         now = datetime.now()
@@ -102,3 +104,4 @@ get_song("aspen", "https://www.radios-argentinas.org/fm-aspen-1023")
 get_song("vorterix", "https://www.radios-argentinas.org/radio-vorterix")
 get_song("rock&pop", "https://www.radios-argentinas.org/radio-rock-and-pop")
 get_song("blue", "https://www.radios-argentinas.org/radio-blue")
+get_song("mega", "https://www.radios-argentinas.org/mega-983")

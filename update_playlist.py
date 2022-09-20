@@ -1,4 +1,3 @@
-from turtle import update
 import functions
 
 # this should run only once per day
@@ -14,3 +13,4 @@ update_playlist("aspen", "7bZVSBqJalnab6Yl6bGk3a")
 update_playlist("vorterix", "5yWsFE5mNDxV0ljNWX2EdR")
 update_playlist("rock&pop", "3n1KqCxQ7J1WxDegFgTbJy")
 update_playlist("blue", "4L1aOpoWD9MKwcYT3vckdZ")
+update_playlist("mega", "1zOvjRzzkfz2YAkJII1keY")
