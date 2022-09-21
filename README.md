@@ -27,8 +27,9 @@ Si estás aburrido y querés ver si la Triple T es la canción que más está so
 
 ##### Known Issues:
 - El Cron no activa el virtual environment entonces tuve que instalar algunos paquetes de manera global
-- Las canciones que son de publicidades a veces las agarra. Ejemplo Soda Stereo - Te hacen falta vitaminas para no se que pastilla o Paisaje de Gilda que no se de que publicidad es. Actualmente lo soluciono directamente obviandolas pero está técnicamente mal.
-- Las canciones que son de cortinas musicales también son otro problema. Hay varios temas del capo de Terry Devine King (el que hizo el soundtrack de Iron Man) que algun programa de Vorterix usa de cortina.
+- Las canciones que son de publicidades a veces las agarra. Ejemplo Soda Stereo - Te hacen falta vitaminas para no se que pastilla o Paisaje de Gilda que no se de que publicidad es. Actualmente lo soluciono directamente obviandolas pero está técnicamente mal. También pasa en Aspen cuando promocionan algún show como el de Air Supply que la canción suena de fondo y la agarra.
+- En Mega supuestamente son todas canciones Argentinas pero hay una que agarro que es en inglés, también debe ser de alguna propaganda.
+- Las canciones que son de cortinas musicales también son otro problema. Hay varios temas del capo de Terry Devine King (el que hizo el soundtrack de Iron Man) que me parece que el gobierno usa para sus publicidades.
 - Hay canciones que le pega a la api de spotify y devuelve una uri de otra versión falopa y no de la original. Ejemplo can't buy me love de los beatles o clocks de coldplay que devuelve de un album compilado raro.
 
 ##### To Do:
@@ -36,3 +37,4 @@ Si estás aburrido y querés ver si la Triple T es la canción que más está so
 - Que efectivamente sean las canciones de los últimos 7 días y no un estimado.
 - No sé que hacer para conseguir la URI de las canciones que no devuelve nada la query porque existir existen en Spotify. La mejor manera de hacerlo por ahora fue mandar en la query directamente track + artist y sacar los () donde a veces decia Remastered 2009 o alguna cosa del estilo, esto bajo muchísimo la cantidad de canciones que no devolvían uri.
 - Ampliar a mas radios?
+- Una posible solución al tema de las publicidades sería pegarle dos veces a la página en un lapso de tiempo de unos 30 segundos y que si devuelve la misma es porque es una canción y no una publicidad
