@@ -43,7 +43,7 @@ def get_song(url, chrome_service, chrome_options):
 
     song = song_title + " - " + artist_name
 
-    return song
+    return song, artist_name
 
 
 def get_track_id(song):
@@ -201,15 +201,15 @@ def add_track(song, radio, possible_ad):
     # Paisaje - Gilda // Publicidad
     # Easy Listening Jazz Background // Cortina?
 
-    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo"]
+    # forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo"]
 
-    if track_id not in forbidden_tracks:
-        write_track_to_files(song, track_id, radio, possible_ad)
+    # if track_id not in forbidden_tracks:
+    #     write_track_to_files(song, track_id, radio, possible_ad)
+
+    write_track_to_files(song, track_id, radio, possible_ad)
 
 def main(radio, url , chrome_service, chrome_options):
-    song_first_try = get_song(url, chrome_service, chrome_options)
-    song_second_try = get_song(url, chrome_service, chrome_options)
-    if song_first_try == song_second_try: # no es publicidad
-        add_track(song_second_try, radio, False)
-    else:
-        add_track(song_second_try, radio, True)
+    song, artist_name = get_song(url, chrome_service, chrome_options)
+
+    if artist_name != 'Terry Devine-King':
+        add_track(song, radio, False)
