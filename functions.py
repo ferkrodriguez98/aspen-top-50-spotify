@@ -193,6 +193,7 @@ def add_track(song, radio, possible_ad):
     print("------------------")
 
     # forbidden songs
+    
     # Chuck Buster: Earth 2 is terrible! - Patrick Marrinan // No tengo idea por que aparece tanto
     # Te Hacen Falta Vitaminas - Soda Stereo // Publicidad
     # Birds of Prey // Publicidad
@@ -200,16 +201,36 @@ def add_track(song, radio, possible_ad):
     # Red States Blue States // Ni idea
     # Paisaje - Gilda // Publicidad
     # Easy Listening Jazz Background // Cortina?
+    # Crumbs (feat. Blush'ko) - Jordan Dennis // Ni idea pero no esta bien en aspen esto asi que debe ser otra cosa
+    # Late Night Show Intro (Live) - Kenny Fong // No se
+    # 4 - Boca Junior Forever // Luquita Rodrigue
+    # Battle Without Honor Or Humanity - Hotei // Kill Bill
+    # Milonga de mis amores - Orquesta tipica de Pedro Laurenz // Ni idea
+    # Sway with me // Ni idea
+    # Joke's on you
+    # In My Hood // Ni idea
+    # tie break no se que
+    # games timmy rickard
+    # no estés triste buraq
+    # arte - tango engrampado // no se por que suena en vorterix todos los dias a la media noche
+    # stay de kid laroi y justin pero japonesa ? random
+    # david guetta im good blue
+    # i want it that way cantada por hijos de puta
+    # once in a lifetime philip guyler
+    # mi mami es mia ????
+    # you be illin
+    # angelito tu abuela
+    # a danca das flores
 
-    # forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo"]
+    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo", "spotify:track:0wgElszsos5fWd2lT8AJGG", "spotify:track:1joCD8lmeECxsuFllwWEgG", "spotify:track:4uB9aTwNWtrkfCkQh2dLoX", "spotify:track:6Q32Vkucx2qeuVyBd3NiFZ", "spotify:track:0DEa2fl4X6wPj1HFIF6y5o", "spotify:track:49BTcpVottyuoVxHQigMbP", "spotify:track:4l00HxpAXTr7O34ORXvSnK", "spotify:track:4QzTOliqElY3QcEQLG8zIk", "spotify:track:0PAaTyoLXpjGVe57EuuUed", "spotify:track:1efyjnQuyc7Lwj0FGQLC5a", "spotify:track:57ldajesvLV5Vnpri43bRh", "spotify:track:5DXZQV4VxXRllzwcZalTZL", "spotify:track:5fxyZf6m2xHeSrOzUfcJrq", "spotify:track:6prCjg1Aw78WViahkkxEXj", "spotify:track:218wqDZcPmIeSEEwBTZ2uP", "spotify:track:4N6wVUAMkVElse4sAHF0lF", "spotify:track:0cK8HYU0Mwaea9U1Ln56R5", "spotify:track:14423JlgVUbfpmQ9GRUGCu", "spotify:track:5m8WUAOtjHLt3y8UVPXUIm", "spotify:track:7pzdca5bXcVS8FvxEfy5HU", "spotify:track:0fCkqOUJ1J109Yu6TqJDq5"]
 
-    # if track_id not in forbidden_tracks:
-    #     write_track_to_files(song, track_id, radio, possible_ad)
+    if track_id not in forbidden_tracks:
+        write_track_to_files(song, track_id, radio, possible_ad)
 
-    write_track_to_files(song, track_id, radio, possible_ad)
+    # write_track_to_files(song, track_id, radio, possible_ad)
 
 def main(radio, url , chrome_service, chrome_options):
     song, artist_name = get_song(url, chrome_service, chrome_options)
 
-    if artist_name != 'Terry Devine-King':
+    if artist_name != 'Terry Devine-King': # xd
         add_track(song, radio, False)
