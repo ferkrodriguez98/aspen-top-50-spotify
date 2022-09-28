@@ -221,8 +221,10 @@ def add_track(song, radio, possible_ad):
     # you be illin
     # angelito tu abuela
     # a danca das flores
+    # balanda para un loco
+    # querrequestyle
 
-    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo", "spotify:track:0wgElszsos5fWd2lT8AJGG", "spotify:track:1joCD8lmeECxsuFllwWEgG", "spotify:track:4uB9aTwNWtrkfCkQh2dLoX", "spotify:track:6Q32Vkucx2qeuVyBd3NiFZ", "spotify:track:0DEa2fl4X6wPj1HFIF6y5o", "spotify:track:49BTcpVottyuoVxHQigMbP", "spotify:track:4l00HxpAXTr7O34ORXvSnK", "spotify:track:4QzTOliqElY3QcEQLG8zIk", "spotify:track:0PAaTyoLXpjGVe57EuuUed", "spotify:track:1efyjnQuyc7Lwj0FGQLC5a", "spotify:track:57ldajesvLV5Vnpri43bRh", "spotify:track:5DXZQV4VxXRllzwcZalTZL", "spotify:track:5fxyZf6m2xHeSrOzUfcJrq", "spotify:track:6prCjg1Aw78WViahkkxEXj", "spotify:track:218wqDZcPmIeSEEwBTZ2uP", "spotify:track:4N6wVUAMkVElse4sAHF0lF", "spotify:track:0cK8HYU0Mwaea9U1Ln56R5", "spotify:track:14423JlgVUbfpmQ9GRUGCu", "spotify:track:5m8WUAOtjHLt3y8UVPXUIm", "spotify:track:7pzdca5bXcVS8FvxEfy5HU", "spotify:track:0fCkqOUJ1J109Yu6TqJDq5"]
+    forbidden_tracks = ["spotify:track:11iP5AN0ftQZbVU9SmFTrL", "spotify:track:3caBCFURBMGqZYrZUc7j8s", "spotify:track:7v1YbW8QYpfFebFmvhntrH", "spotify:track:44tv8coB9oOIVFmyCL7u1r", "spotify:track:4HgOxamRy4UXhCs5Bhw92J", "spotify:track:6NipZljiEekGRNF6vddEP3", "spotify:track:0Yeaq4bPZk7hcUrldSmASo", "spotify:track:0wgElszsos5fWd2lT8AJGG", "spotify:track:1joCD8lmeECxsuFllwWEgG", "spotify:track:4uB9aTwNWtrkfCkQh2dLoX", "spotify:track:6Q32Vkucx2qeuVyBd3NiFZ", "spotify:track:0DEa2fl4X6wPj1HFIF6y5o", "spotify:track:49BTcpVottyuoVxHQigMbP", "spotify:track:4l00HxpAXTr7O34ORXvSnK", "spotify:track:4QzTOliqElY3QcEQLG8zIk", "spotify:track:0PAaTyoLXpjGVe57EuuUed", "spotify:track:1efyjnQuyc7Lwj0FGQLC5a", "spotify:track:57ldajesvLV5Vnpri43bRh", "spotify:track:5DXZQV4VxXRllzwcZalTZL", "spotify:track:5fxyZf6m2xHeSrOzUfcJrq", "spotify:track:6prCjg1Aw78WViahkkxEXj", "spotify:track:218wqDZcPmIeSEEwBTZ2uP", "spotify:track:4N6wVUAMkVElse4sAHF0lF", "spotify:track:0cK8HYU0Mwaea9U1Ln56R5", "spotify:track:14423JlgVUbfpmQ9GRUGCu", "spotify:track:5m8WUAOtjHLt3y8UVPXUIm", "spotify:track:7pzdca5bXcVS8FvxEfy5HU", "spotify:track:0fCkqOUJ1J109Yu6TqJDq5", "spotify:track:4n35TddfNkMH1UnvfCgTkv", "spotify:track:67EuF0WdXxyv3fHb4zYFbB"]
 
     if track_id not in forbidden_tracks:
         write_track_to_files(song, track_id, radio, possible_ad)
@@ -232,5 +234,5 @@ def add_track(song, radio, possible_ad):
 def main(radio, url , chrome_service, chrome_options):
     song, artist_name = get_song(url, chrome_service, chrome_options)
 
-    if artist_name != 'Terry Devine-King': # xd
+    if artist_name not in ['Terry Devine-King', 'Timmy Rickard & James Stelling']: # xd
         add_track(song, radio, False)
