@@ -3966,3 +3966,320 @@ Buenos Aires - La 25 // 06/10/2022 23:45:04 // spotify:track:4taayDhZRHnRbskB5kl
 La Mamá de Jimmy - Leon Gieco // 06/10/2022 23:51:04 // spotify:track:5p1LFyAWZUG3b9USMZjsu6
 Lamento Boliviano - Turf & DLD // 06/10/2022 23:53:08 // spotify:track:69xAODJbGD64reFIgp8MxX
 Matador (En Vivo en Theater at Madison Square Garden) - Los Fabulosos Cadillacs // 06/10/2022 23:55:07 // spotify:track:4bMZ60QNM6OEehI6b8RtS4
+ARGENTINA - Trueno & Nathy Peluso // 07/10/2022 00:01:03 // spotify:track:3lkiTKxSDxOqZkQnf9FUEo
+Nueva Roma - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 00:05:05 // spotify:track:5BzJt1iwTxN7ArW3sSERNZ
+Supe Ver - Vicente y Los Curiosos // 07/10/2022 00:07:07 // spotify:track:0ZrMZYqRnVhfhSvCHVpScY
+Vieja Mujer (Besos de Otros Días) - KNEi // 07/10/2022 00:11:15 // spotify:track:6uOc9z8ES3OLuIOSPD2SKz
+Insolación - Delfines Entrenados Para Matar // 07/10/2022 00:15:04 // spotify:track:6SVzxvYvJfLiwFtX3Tn4Br
+Sucio Gas - Fantasmagoria // 07/10/2022 00:19:01 // spotify:track:4clefHSMuRvnoHkxXeHjED
+Impostor - Zona 84 // 07/10/2022 00:27:01 // spotify:track:3BJYz6T5CguPPoAdahe2c5
+Galáctico - Chornys // 07/10/2022 00:31:04 // spotify:track:3kuczWI8fqNBnY4nwjhgxS
+Solo Dame Otra Oportunidad - Los Enanitos Verdes // 07/10/2022 00:35:04 // spotify:track:1WFKutKqa4c2TeXWyQrbn4
+Carismático - Babasónicos // 07/10/2022 00:41:16 // spotify:track:0JEoezwc786AUMKs2CBQRI
+Twist de Luis - Los Twist // 07/10/2022 00:43:05 // spotify:track:27qhYyAPQFpYVVlXCdiu0o
+Dar es dar - Fito Páez // 07/10/2022 00:47:05 // spotify:track:58tnDTHguRpHhoe6Ft6B83
+Laberintos - Lucas & The Woods // 07/10/2022 00:49:05 // spotify:track:5SDmLAWAKErE579L0PoANm
+Cómo Estamos Hoy - Roma // 07/10/2022 00:53:04 // spotify:track:4i4PvnqYETKuFF1fLtS9YI
+Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] [MTV Unplugged] - Los Auténticos Decadentes // 07/10/2022 00:55:05 // spotify:track:3ydweVPwq9PCEVJ8WwqT6u
+Nadie Fue - Las Pelotas // 07/10/2022 00:59:04 // spotify:track:04DfP176MeQTGFiGz0kq6b
+Éxodo-Ska (No Llores por Mi Argentina) - Attaque 77 // 07/10/2022 01:03:02 // spotify:track:0xiRO7WaSVgQgPvdjRL2uY
+Banderitas y Globos - Sumo // 07/10/2022 01:07:01 // spotify:track:5Fa7z8XzhlGzFdARu6dd5S
+Animal Humano - Mancha De Rolando // 07/10/2022 01:11:04 // spotify:track:75JIg0iWw3IrjQnaeO233k
+Sopa de letras - Memphis La Blusera // 07/10/2022 01:13:16 // spotify:track:703KkLYh0HxpxHvjySYrtJ
+Motor Psico - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 01:17:01 // spotify:track:3JPweQejF6fiEtWEJe0qsa
+Rehenes - Andrés Calamaro // 07/10/2022 01:23:03 // spotify:track:1RkmPPHM7GtZQrBpTEQTFI
+El Ídolo - Bandalos Chinos // 07/10/2022 01:27:05 // spotify:track:3IyKQaPt45iJ1vmQwtb9hu
+Campanas en la Noche - Los Tipitos // 07/10/2022 01:29:03 // spotify:track:0C9V5jMElp7laZZdsCHufD
+Lamento Boliviano - Turf & DLD // 07/10/2022 01:33:16 // spotify:track:69xAODJbGD64reFIgp8MxX
+Todo Lo Que Quieras - La Guapa // 07/10/2022 01:35:03 // spotify:track:5kw4PXyQAKtIegpAfwjGMy
+El Heladero (feat. Charlie Desidney) - Karamelo Santo // 07/10/2022 01:39:02 // spotify:track:1mH1ZK4SJvaUkvegyJ6Tvx
+Mira Cómo Es - La Vela Puerca // 07/10/2022 01:41:01 // spotify:track:4YYhZJo0FaqFmGCDVcBlGO
+Darling - Estelares // 07/10/2022 01:45:01 // spotify:track:2NfNK9LbMeM3CWt2NWhVgs
+Sanar - Ricardo Mollo // 07/10/2022 01:49:03 // spotify:track:00FUSVoe5mSwqpHhVYAwq3
+No Me Dejes Caer - Pier // 07/10/2022 01:53:17 // spotify:track:7wCalELbatgVcdYWHB6ybd
+50 Horas (Live At Teatro Colón / 2018) - Coti // 07/10/2022 01:59:06 // spotify:track:5xiH2wHtpuOaNbxm9PAofT
+Bienvenidos al Tren - 2 Minutos // 07/10/2022 02:03:04 // spotify:track:2gMnCsDqB1CWYfLDctoILG
+El Balcón de Paul - El Cuarteto de Nos // 07/10/2022 02:07:05 // spotify:track:0m29Kyrm8caxQ22r1rZ4wn
+El Zorro - El Padre y los Perros Sucios // 07/10/2022 02:11:04 // spotify:track:7L5NhF13ZC6LbdJxlkQsN9
+Media Vida - Andando Descalzo // 07/10/2022 02:15:00 // spotify:track:1Tjn9QhwZaCde6VZAYm0PQ
+Labios de Seda (En Vivo) - Los Piojos // 07/10/2022 02:19:01 // spotify:track:5LROuNllobIpyv7MIs95BS
+De Mi - Charly Garcia // 07/10/2022 02:27:17 // spotify:track:3VjkXOiRAcPdQ9RKK3BSgS
+Der Rotstein - Astroboter // 07/10/2022 02:28:59 // spotify:track:3Qj8dXQW6k63iPG6LfRYSC
+Vuelta por el Universo - Gustavo Cerati & Daniel Melero // 07/10/2022 02:33:15 // spotify:track:7uY3xheR58xt98wb8BIz21
+Resurrección - Ella Es Tan Cargosa // 07/10/2022 02:39:07 // spotify:track:0eSBYSaV4jKioHnBDznwQR
+PUAJ (sesión) - WOS // 07/10/2022 02:43:15 // spotify:track:6fTxvdEyWl3zZg2XTWO4s8
+Te Extrañé (Tavo Stone) - La Franela // 07/10/2022 02:47:05 // spotify:track:2gM4VDKN6hh1uNBawQthf8
+Y Más - Leo Garcia // 07/10/2022 02:49:59 // spotify:track:1dB6Emqonlts7eeKI7C5Ht
+Sencillamente - Bersuit Vergarabat // 07/10/2022 02:55:07 // spotify:track:3tPGzLQOB9GnSisO0l4tGW
+Dulce (feat. Abel Pintos) - Las Pastillas del Abuelo // 07/10/2022 02:58:59 // spotify:track:00qJ7UYGzz0STfuBaJzaP5
+Pobre Tipo - Guasones // 07/10/2022 03:03:06 // spotify:track:0JMpWaXIcQKN3m8AEH4GmX
+Magia Blanca - Turf // 07/10/2022 03:09:01 // spotify:track:4PfoTZ8nDhWEZNeDpLxy7G
+El Tigre y el Dragón (feat. Abel Pintos) - David Lebón // 07/10/2022 03:13:18 // spotify:track:2yJxwbwmGzOXkFLWKdaOV0
+Vasos Vacíos (En Vivo) - Los Fabulosos Cadillacs // 07/10/2022 03:17:16 // spotify:track:198qSChSMQFuSimdeeY9gK
+Todo Pasa - Nonpalidece // 07/10/2022 03:21:05 // spotify:track:6enaauTFEL8gkmcLSxOB2J
+Pasajero en Extinción - Cabezones // 07/10/2022 03:27:06 // spotify:track:1RDKHa8uHT0e2HwXY9KsK0
+En el Baldío - La Renga // 07/10/2022 03:31:15 // spotify:track:6JEEFrc6MHgH7X2hRbijzx
+Tal Vez Mañana - Skay Beilinson // 07/10/2022 03:35:14 // spotify:track:4FTNbGANV9KW25np7sr5jC
+Amor Es Dinero / Remo Erdosain - Fito Páez // 07/10/2022 03:41:04 // spotify:track:7pExh21ZPAIiH5mPn3sjYB
+Sorojchi (En Vivo en La Ballena Azul) - Eruca Sativa // 07/10/2022 03:43:05 // spotify:track:3G2oKpZKebeikGbTBiidsb
+No Me Sueltes (Es Posible) - Kapanga // 07/10/2022 03:47:06 // spotify:track:1JlxQG0qBaEI2V1f0zkQLT
+Puedo - Los Cafres // 07/10/2022 03:53:06 // spotify:track:0TWTda4yD1jdsIlRTQLoA0
+Mimos Son Mimos - Babasónicos // 07/10/2022 03:55:06 // spotify:track:0AK6oKtH1xi0y66ZkN6OGT
+Ninja Mental - Illya Kuryaki & The Valderramas // 07/10/2022 03:59:05 // spotify:track:4TicjhD6UpAyVkFQibEsoc
+Con Vos - Los Caligaris // 07/10/2022 04:03:05 // spotify:track:5DNRryBkStHmqKtwigXZFR
+Baby - La Portuaria // 07/10/2022 04:05:16 // spotify:track:0dAXVSXDvLLbUHehwKhA7b
+Justo Que Te Vas - Ricardo Iorio // 07/10/2022 04:09:18 // spotify:track:3Oylj0SZiK5tpFn5BXYEpZ
+Divorcio - Massacre // 07/10/2022 04:17:03 // spotify:track:2cWo7AgEDQjveyrDtl3D4K
+Bienvenidos - Don Osvaldo // 07/10/2022 04:21:16 // spotify:track:4VUXRUfRhTLKyiqNJ8dHvX
+Tristeza De La Ciudad (Blank) - Los Abuelos de la Nada // 07/10/2022 04:25:17 // spotify:track:6c97BmRokgFcEWnTcQcosm
+Haiku - Luceros el Ojo Daltónico // 07/10/2022 04:29:12 // spotify:track:1fVlXLvtiP6wvVvGAvSlgb
+Destino Circular - Virus // 07/10/2022 04:33:09 // spotify:track:683JnJRZeuAb7mWGXyYpeq
+Amor (Ft. Mon Laferte) [Mtv Unplugged] - Los Auténticos Decadentes // 07/10/2022 04:39:13 // spotify:track:2fscHtYDKLd7xYRCTe3prP
+Despertar - Joaquino // 07/10/2022 04:45:07 // spotify:track:6NU96ialpbIM91y1TIkiG6
+La Rama - No Te Va Gustar // 07/10/2022 04:47:06 // spotify:track:0JWOMrDJ3oizqvlV1HZd5v
+Lamento Boliviano - Turf & DLD // 07/10/2022 04:54:59 // spotify:track:69xAODJbGD64reFIgp8MxX
+Corazón Duro (feat. Bronco) - La Beriso // 07/10/2022 04:57:05 // spotify:track:4xtJrv65xtUm09t5fAzl4u
+Roll It Up (Edited) - The Crystal Method // 07/10/2022 05:03:07 // spotify:track:2OtM0uZAj7hDTX39KJSgtW
+Cuadros Dentro de Cuadros - Catupecu Machu // 07/10/2022 05:05:06 // spotify:track:4PRDdpZXJrrTDGnl4nJPrZ
+Amigo / White Trash - Attaque 77 // 07/10/2022 05:09:06 // spotify:track:4eL7yAnipFUHOzWGsbwz7m
+Mas Humanizado - Todo Aparenta Normal // 07/10/2022 05:13:32 // spotify:track:0Gbu8Qrgs6SW5b9QKmpVXl
+Un Trago para Ver Mejor - La Mississippi // 07/10/2022 05:15:05 // spotify:track:35JqpWH5s95HEhXE9n5uHA
+Tomando Mate en la Paz - Divididos // 07/10/2022 05:19:03 // spotify:track:5evuUTnXKpqZztfaQqkBuU
+Puertas Adentro - Peligrosos Gorriones // 07/10/2022 05:25:08 // spotify:track:24Aq5jHYy3qUEQoCDdOikY
+Nadie Nos Ve - CELLI // 07/10/2022 05:27:07 // spotify:track:0RfZJRe3MF3q4vkuwg3raS
+Soy Tuyo - Andrés Calamaro // 07/10/2022 05:31:19 // spotify:track:1d4fWuxcszsjBBm5rlvRuX
+Kamikaze - Airbag // 07/10/2022 05:35:07 // spotify:track:4EBjqcNiTiQfAyLI3M8gDN
+No Me Sueltes (Es Posible) - Kapanga // 07/10/2022 05:45:16 // spotify:track:1JlxQG0qBaEI2V1f0zkQLT
+Magdalena - Los Perez García // 07/10/2022 05:47:07 // spotify:track:5TSZARtbGtoYOHLFDqeYLG
+Chica Suburbana - La 25 // 07/10/2022 05:53:10 // spotify:track:4KuCdksNtIbdPVRfJGHrUX
+Montañas de Amor - Estelares // 07/10/2022 05:55:19 // spotify:track:5ObjBi5tI3bwH6OMrvUiwP
+La Edad del Cielo (feat. Emiliano Brancciari) - Los Pericos // 07/10/2022 05:59:07 // spotify:track:0hYkN2dY6PDBrzOmZv03AE
+Ayúdame Señor Te Ruego (Cover) - Fabiola Ramirez // 07/10/2022 06:03:08 // spotify:track:4N9eSpxev3DCWUYk2wxFYW
+Tu Locura - Gustavo Cerati // 07/10/2022 06:09:05 // spotify:track:1nCCY0KmVlfn8WUmGYYwLf
+La Cena - Marilina Bertoldi // 07/10/2022 06:11:13 // spotify:track:3LNfGVEaU6KP0uramTnpoj
+Quiero Verte - NAFTA // 07/10/2022 06:21:08 // spotify:track:0nddhkhTtvxd7kh7QdnkFR
+Nuevos Trapos - Charly Garcia // 07/10/2022 06:33:15 // spotify:track:0eChv3249vAoIl9oVlDPSP
+Ando Con Ganas de Lo Imposible - Angelito Tu Abuela // 07/10/2022 06:37:06 // spotify:track:5J5Dn4rzqo3XKZLrT82HHJ
+#Iafwu (feat. Vante24k & KING ABEO) - Brodie Bankz // 07/10/2022 06:39:18 // spotify:track:3vP1hHeOdG1Hjnn4bfO1J7
+Difícil - Los Piojos // 07/10/2022 06:43:08 // spotify:track:6FBUuddymQuBmVQS5zVnUZ
+Parado en el Medio de la Vida (feat. Andrés Calamaro) - David Lebón // 07/10/2022 06:53:09 // spotify:track:3490hmiGdUp9Dyd8l6fRnN
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 06:57:12 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+¿Qué podés dar? - Las Pelotas // 07/10/2022 06:59:17 // spotify:track:3cSeUFJ3oklZCgMKOYwPoL
+Desconéctame - Joystick // 07/10/2022 07:03:05 // spotify:track:3DSH9pGQD4taNxZbIZy6lg
+La Soledad - Bersuit Vergarabat // 07/10/2022 07:11:17 // spotify:track:56mbNpJVn5WQhOlsOvb2A0
+Imposible (Versión 25 Años) - Los Cafres // 07/10/2022 07:15:26 // spotify:track:3MNAqtaZyWQjwRjoup22BU
+Cretino - Babasónicos // 07/10/2022 07:27:05 // spotify:track:7cZXR7MmUEtIE5FqNV9Cl2
+The All-Clear - Dorena // 07/10/2022 07:35:02 // spotify:track:47jTPanLYalOzjgrFwEzIe
+Ando Con Ganas de Lo Imposible - Angelito Tu Abuela // 07/10/2022 07:37:11 // spotify:track:5J5Dn4rzqo3XKZLrT82HHJ
+Día Mil - Eruca Sativa // 07/10/2022 07:39:03 // spotify:track:0C8sntkt9YJMgPNMJYDQEL
+No Sé - La Vela Puerca // 07/10/2022 07:49:09 // spotify:track:4Pmk1XN5gJxV54H0gwCUof
+El Hidrante - Angelito Tu Abuela // 07/10/2022 07:55:08 // spotify:track:6txEfIRwIQx4EUtlmWgj6q
+Bye Bye - Babasónicos // 07/10/2022 07:59:21 // spotify:track:4Qmqux7KiBuz31IcJzHt05
+Playas Oscuras - Los Visitantes // 07/10/2022 08:01:08 // spotify:track:6yRknu7uvnsgLz1Riy5rZr
+Juira! - Ciro y los Persas // 07/10/2022 08:05:06 // spotify:track:6zEgStTIh3O2R28nudbLMk
+Hablo Solo - Turf // 07/10/2022 08:13:15 // spotify:track:6KtAN4uTzHaxsNuIZ9Qnd1
+Como un Buey - Las Pelotas // 07/10/2022 08:17:09 // spotify:track:6SLmom99HkPDcuGPpLfDbT
+Juntos - Surfistas Del Sistema // 07/10/2022 08:25:10 // spotify:track:6LPyhPTpHlmkK4SdAOi3rt
+No Estés Triste - 2 Minutos // 07/10/2022 08:35:12 // spotify:track:4Bm9mh2IiaMU77PuIqIvsR
+Nueva Roma - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 08:39:09 // spotify:track:5BzJt1iwTxN7ArW3sSERNZ
+#Iafwu (feat. Vante24k & KING ABEO) - Brodie Bankz // 07/10/2022 08:41:10 // spotify:track:3vP1hHeOdG1Hjnn4bfO1J7
+Nostalgia - Sig Ragga // 07/10/2022 08:43:09 // spotify:track:0hEIVzT7VRRVGX1nhvnTPc
+Inercia - Las Pastillas del Abuelo // 07/10/2022 08:49:18 // spotify:track:1NTaFxBsq90jAF7te7TCVZ
+Vas a Ver - Andando Descalzo // 07/10/2022 09:03:11 // spotify:track:2WZbtHfIMNmXUd7IMeOFIe
+Lo Que Nos Ocupa Es Esa Abuela, la Conciencia Que Regula el Mundo (En Vivo) [with Invisible] - Luis Alberto Spinetta // 07/10/2022 09:07:04 // spotify:track:2Y2MQ09ZUmrfP8UlFlmAcr
+Jugo de Tomate - Ricardo Iorio // 07/10/2022 09:11:03 // spotify:track:7dl64CTK556NUGWhtFWLnP
+Chau (feat. Luciano Supervielle) - No Te Va Gustar // 07/10/2022 09:27:19 // spotify:track:3uP1USIwwDpOA8uw0LjY2P
+Un Chico en el Cuerpo de un Mayor - Los Caligaris // 07/10/2022 09:29:02 // spotify:track:1mr6dXlWBIiSjTY44bcEhs
+Un Loco en la Calesita - Fabiana Cantilo // 07/10/2022 09:41:10 // spotify:track:0uNVdGeK37LYplZ1vRRaeQ
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 09:47:22 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 09:51:12 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Océano (Demo) - Cuentos Borgeanos // 07/10/2022 09:55:19 // spotify:track:70Ro4wrKdZdi2bny7SxIvE
+Nos Siguen Pegando Abajo - Charly Garcia // 07/10/2022 10:01:09 // spotify:track:4VikOud5ZmdmHH6h7uQeDB
+Desdudame - Cadena Perpetua // 07/10/2022 10:03:22 // spotify:track:49Nd2CQWICYF3GkKQpVk7S
+Traicionero (En Vivo en el Estadio Único) - La Beriso // 07/10/2022 10:05:08 // spotify:track:0sOpGWXWkxNDev51Dst3fQ
+La Pajarita Pechiblanca (scherzo) - Indio Solari & Los Fundamentalistas del Aire Acondicionado // 07/10/2022 10:09:19 // spotify:track:1OLyn7lULQD92ru8XIk6go
+En la Ciudad de la Furia - Soda Stereo // 07/10/2022 10:15:15 // spotify:track:7J2885UBOaG6x3LLkp2YGf
+Pensamientos - Airbag // 07/10/2022 10:24:11 // spotify:track:1H7ktqkQx1PIuPfNtqvaBs
+Marta (corte) - Sol Bassa // 07/10/2022 10:29:42 // spotify:track:3KZ0n5l5WSlLrfezbhVGXN
+Jennifer del Estero (En Vivo) - Illya Kuryaki & The Valderramas // 07/10/2022 10:41:14 // spotify:track:3aJBJ4DAfTknfkzbd0G9Um
+Deléctrico - Babasónicos // 07/10/2022 10:45:23 // spotify:track:5DSgzNSlB4EHCIi8YAXxWn
+Ojos de Perro - Attaque 77 // 07/10/2022 10:47:17 // spotify:track:0Mpuxn2GTE8LzUXJzIwk7H
+DANCE CRIP - Trueno // 07/10/2022 10:51:25 // spotify:track:1kjs5eR4DMzyB0gm1Z8waV
+Cinema Verité - Serú Girán // 07/10/2022 11:03:12 // spotify:track:6Pc5YpUReYYToXJ23TmkLS
+Satélite de Vos (En Vivo) - Los Pericos // 07/10/2022 11:09:23 // spotify:track:6yfSiqyUDXkpklFWA7dbX6
+Encantan (feat. Enjambre) - Estelares // 07/10/2022 11:13:05 // spotify:track:4GrxCRx9CbGqTGqXqUfG8X
+Tráfico Por Katmandú - Fito Páez // 07/10/2022 11:21:10 // spotify:track:4CP1f7aNCp3cJ3CKAl3XY0
+Estallándo Desde el Océaño - Sumo // 07/10/2022 11:27:09 // spotify:track:7379uubtjZDDT6Phsj4nhj
+Tal Vez Mañana - Skay Beilinson // 07/10/2022 11:29:10 // spotify:track:4FTNbGANV9KW25np7sr5jC
+La Pachanga - Filardo // 07/10/2022 11:31:07 // spotify:track:1x6bkwDyWIOZNFY5blRSs1
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 11:49:12 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Pepe Lui - Divididos // 07/10/2022 11:53:08 // spotify:track:3dYlW2oy1sBMVCH5zst8le
+Costumbres Argentinas - Los Abuelos de la Nada // 07/10/2022 12:03:25 // spotify:track:3fMYqdMKH84KeTnSuFi4Xf
+Reloj de Plastilina - Fantasmagoria // 07/10/2022 12:05:23 // spotify:track:4MMlauJ06Zm1apM1aPe7HZ
+Se Despierta la Ciudad - Vicentico // 07/10/2022 12:09:09 // spotify:track:2XKyWH41T3Apqobe2v6Mis
+Pueblo Fantasma (feat. Manuel Moretti) - Ella Es Tan Cargosa // 07/10/2022 12:17:05 // spotify:track:5s7q435tXhQDViL4wpiwPL
+Miguel Mateos - Zas - Un Gato en la Ciudad -  // 07/10/2022 12:21:18 // spotify:track:3MtLAYxjjyCGk9Tv5z4qXQ
+Por la Ciudad - La Vela Puerca // 07/10/2022 12:29:10 // spotify:track:0g8SDbXxDv1zl57Ro4P3tf
+Para Que Sigamos Siendo (En Vivo) - Eruca Sativa // 07/10/2022 12:37:39 // spotify:track:1eqa7UxRqR59lR5SQ79lZg
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 12:39:12 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Pensar en Nada - Leon Gieco // 07/10/2022 12:43:08 // spotify:track:1vbuhtvcvHBsbdFJgyZHCu
+Canción del Cronopio - Los Brujos // 07/10/2022 12:46:59 // spotify:track:0XSzd8KWQxXySn9Mo5EnRO
+Kanishka - Los Brujos // 07/10/2022 12:51:20 // spotify:track:54hZ4XVJ0xdp6teJVyHgn8
+Fin de Semana Salvaje - Los Brujos // 07/10/2022 12:53:08 // spotify:track:3GTvZoB9CKPcfg0AD9ZVcW
+Monseñor Le Flip - Los Brujos // 07/10/2022 12:55:23 // spotify:track:54hZ4XVJ0xdp6teJVyHgn8
+No Te Dejes Caer - Los Brujos // 07/10/2022 12:57:05 // spotify:track:44kWsXByt3xRLTrHwv1Sm0
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 12:59:25 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 13:03:39 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+Hay Que Salir del Agujero Interior - Virus // 07/10/2022 13:05:08 // spotify:track:4RB5WROXPADhBvNeRyqFG5
+Cobarde para Amar - Los Gardelitos // 07/10/2022 13:11:24 // spotify:track:5Yi46NJu0JsXrys19xAaBC
+Soldado de Neón - KURZ // 07/10/2022 13:13:16 // spotify:track:326TyMiZ44Z4ivGKtbYFBO
+DANCE CRIP - Trueno // 07/10/2022 13:19:54 // spotify:track:1kjs5eR4DMzyB0gm1Z8waV
+El Río Sabe - Ojos locos // 07/10/2022 13:21:10 // spotify:track:6S9pyvtmqy8fNgOX7gUztT
+Desdudame - Cadena Perpetua // 07/10/2022 13:23:30 // spotify:track:49Nd2CQWICYF3GkKQpVk7S
+Lamento Boliviano - Turf & DLD // 07/10/2022 13:25:11 // spotify:track:69xAODJbGD64reFIgp8MxX
+Mas Duele - Andrés Calamaro // 07/10/2022 13:33:11 // spotify:track:27u3BcQ5nT5xdaVJe8YFoj
+Héroe del Whisky - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 13:36:59 // spotify:track:7M1h4hkk3TPCvS5HwtAkHC
+Esa Estrella Era Mi Lujo - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 13:42:20 // spotify:track:5exsngywf8qMS6f00gKVWY
+La Montaña (En Vivo) - Los Caligaris // 07/10/2022 13:49:06 // spotify:track:7MOTvgsCBFM8TRGUWI9heK
+Tijuana - Socios de Tijuana // 07/10/2022 13:51:25 // spotify:track:2278uENXAsOuv1h6aeMAUK
+Mírenla - Ciro y los Persas // 07/10/2022 13:57:40 // spotify:track:0WuKq2LiraBFney78dzwoc
+Sublimar - Federico Y Los Pájaros // 07/10/2022 14:03:11 // spotify:track:2PUVPjflAhVXcT7CsUOQel
+Un Fugaz Resplandor - Skay Beilinson // 07/10/2022 14:09:00 // spotify:track:3ZfH4sRxehOE8bSW9tHVb0
+Rock del Pedazo - Ratones Paranoicos // 07/10/2022 14:11:19 // spotify:track:44TdLTqPnVDFuwwC0qZBFG
+Bombachitas Rosas - Las Pelotas // 07/10/2022 14:15:09 // spotify:track:0YImobyhTe89eA3nYcIu6G
+Sudestada - Gustavo Cerati // 07/10/2022 14:19:05 // spotify:track:4Furx239MHnKbwwDMtDVWG
+Mi Manera de Ser - Bandalos Chinos // 07/10/2022 14:26:20 // spotify:track:4AtCl1kjk62zGJ9I7HyLDJ
+En Linea - Los Abuelos de la Nada // 07/10/2022 14:29:03 // spotify:track:2jSVdaViRTDnY0w1yJKqA1
+Lamento Boliviano - Turf & DLD // 07/10/2022 14:33:27 // spotify:track:69xAODJbGD64reFIgp8MxX
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 14:35:25 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+Paisano De Hurlingham - Divididos // 07/10/2022 14:39:13 // spotify:track:66KDj2t28qNJVXeiWaSiIr
+Oportunidad Oportuna (En Directo Desde Estadio De Huracán Buenos Aires / 2001) - La Renga // 07/10/2022 14:53:11 // spotify:track:6dGzJjNhRjQufVRayc1w5q
+¿Qué podés dar? - Las Pelotas // 07/10/2022 14:57:23 // spotify:track:3cSeUFJ3oklZCgMKOYwPoL
+Tu mirada - Eterna Inocencia // 07/10/2022 14:59:09 // spotify:track:0Cpl8IUWAYu2tkFFXMMkkL
+Leyenda Urbana - Caras Extrañas // 07/10/2022 15:03:07 // spotify:track:4Yun6h4jCE0VBHNeEbaLiO
+Civilización - Los Piojos // 07/10/2022 15:07:10 // spotify:track:5yHJCC8kZJe5U691gaYW5R
+Lamento Bolivíaño - Los Enanitos Verdes // 07/10/2022 15:15:06 // spotify:track:6Pur3hWy6Nzc27ilmsp5HA
+Al Lado del Camino - Fito Páez // 07/10/2022 15:19:18 // spotify:track:4Ft15s9T7pcG7O85VbdxVl
+Sentí Corazón - Andando Descalzo // 07/10/2022 15:25:07 // spotify:track:1EoTmG6quIzgqnjc4JewHk
+Barro Tal Vez - Luis Alberto Spinetta // 07/10/2022 15:31:23 // spotify:track:1y96w7WDPlwByq9aISEi6G
+5 O'Clock Swag - Amphibious Zoo Music // 07/10/2022 15:33:04 // spotify:track:5KiZzD8MaeLSRhP3eCBVPp
+No Me Dejes Caer - Pier // 07/10/2022 15:35:21 // spotify:track:7wCalELbatgVcdYWHB6ybd
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 15:37:11 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+Nada Es para Siempre (feat. Fito Páez) [En Vivo] - Fabiana Cantilo // 07/10/2022 15:41:09 // spotify:track:73J1IrrirnxKM6wk5JfIcV
+Puedo Sentirlo (feat. Julieta Venegas) - David Lebón // 07/10/2022 15:49:05 // spotify:track:53tBGB7t5IGnRBcAo2j8S8
+Madrugada (with Néstor Ramljak) [En Vivo en el Estadio Único] - La Beriso // 07/10/2022 15:51:12 // spotify:track:4SGCn3ZVXa7bepHuAdQvC9
+ARGENTINA - Trueno & Nathy Peluso // 07/10/2022 15:53:04 // spotify:track:3lkiTKxSDxOqZkQnf9FUEo
+Chipi-Chipi - Charly Garcia // 07/10/2022 15:59:06 // spotify:track:6pCZYiB2ZoLfDuapZbpKl8
+Quereme Así (feat. Jorge Serrano) [En Vivo] - Los Caligaris // 07/10/2022 16:03:12 // spotify:track:5SYefHqRXNFjmBLICBseWw
+Sigo Caminando - Los Cafres // 07/10/2022 16:07:20 // spotify:track:1Po5Jxjh5gHCFiKIt6AQZR
+La Patada (En Vivo) - El Bordo // 07/10/2022 16:13:08 // spotify:track:6pPDQ6FQiur6EKyYC8vVfU
+Porque Te Vas... - Attaque 77 // 07/10/2022 16:17:04 // spotify:track:2y7QsNl3ZEm4DI6ACFxRMV
+Kanishka - Los Brujos // 07/10/2022 16:21:02 // spotify:track:54hZ4XVJ0xdp6teJVyHgn8
+Siga el Baile - Los Auténticos Decadentes // 07/10/2022 16:25:36 // spotify:track:3uSDMOEW4K94zTCmm0Lt3F
+Dos - Miranda! & Dillom // 07/10/2022 16:27:35 // spotify:track:5Eusj6NCSedMJdPMn6V7EG
+Leyenda Urbana - Caras Extrañas // 07/10/2022 16:31:08 // spotify:track:4Yun6h4jCE0VBHNeEbaLiO
+El Río Sabe - Ojos locos // 07/10/2022 16:33:10 // spotify:track:6S9pyvtmqy8fNgOX7gUztT
+El Reggae de Paz y Amor - Sumo // 07/10/2022 16:35:06 // spotify:track:2iuIHOwj908eWQGCRfKw43
+Tuyú - Bersuit Vergarabat // 07/10/2022 16:37:06 // spotify:track:6TcIzLz9OZhLtmoSPNfaHL
+La Vida - Los Fabulosos Cadillacs // 07/10/2022 16:43:05 // spotify:track:4T24xO6NYB3u5QZD6qHuv8
+Escafandra - Peligrosos Gorriones // 07/10/2022 16:53:03 // spotify:track:09XkPoMOoWRiwMkwMMcCN1
+Ghost Machine - Barrie Gledden & Chris Norton // 07/10/2022 16:57:09 // spotify:track:4MQuxi4JESbP3KofpuhbAC
+Es El Momento - Los Llayras // 07/10/2022 17:01:15 // spotify:track:0FyHaowN1sGfSIgIESxFAO
+Sin documentos (Edición aniversario) - Los Rodríguez // 07/10/2022 17:05:10 // spotify:track:6eOT73H5zfEwTCe1Y0FDCc
+Sonido Nativo del Río - Bajofondo & YSY A // 07/10/2022 17:09:21 // spotify:track:74yqyT2QjK9CZJcK6szEqD
+No Obstante Lo Cual - Riff // 07/10/2022 17:13:10 // spotify:track:7DzdvXn3QNAWR05GY2m6AZ
+La Leyenda Del Hada Y El Mago - Rata Blanca // 07/10/2022 17:17:21 // spotify:track:46nYeZImWSsOebaCUrfEW1
+Descontrolado (feat. Juanse) [En Vivo] - Jovenes Pordioseros // 07/10/2022 17:23:18 // spotify:track:3KDClBkoakbdF0pSdF2PP7
+Trucos (En Vivo) - Los Perez García // 07/10/2022 17:27:27 // spotify:track:3oHE1SntHEZwRJ3Yhrju8R
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 17:31:23 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 17:33:10 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Para Vestirte Hoy - Lisandro Aristimuño // 07/10/2022 17:37:08 // spotify:track:2JxKh7fJBlcXgSCRrm1hNL
+La Mancha de Rolando - MANCHA DE ROLANDO // 07/10/2022 17:43:06 // spotify:track:3dHDEm95M3UJb6KBuDufvK
+A Trasluz (feat. León Gieco) - Ella Es Tan Cargosa // 07/10/2022 17:51:16 // spotify:track:6Xy5gHDz1OeBHd0ZRbGQrJ
+Desdudame - Cadena Perpetua // 07/10/2022 17:53:06 // spotify:track:49Nd2CQWICYF3GkKQpVk7S
+La Rubia Tarada - Sumo // 07/10/2022 17:59:07 // spotify:track:0RaRyvHA4z1VWq9BJhA65s
+Isabel - Ratones Paranoicos // 07/10/2022 18:03:00 // spotify:track:3j5NTLYlhwI5uQIOYaGzmE
+La Libertad (Acústico en Vivo) - El Bordo // 07/10/2022 18:09:04 // spotify:track:0Vlh7RwIzhYqIEptFbQc4z
+El Candor de las Bestias - Skay Beilinson // 07/10/2022 18:13:05 // spotify:track:0NuILRKs3wIOSk2YU7to5t
+Morel - Palo Pandolfo // 07/10/2022 18:17:06 // spotify:track:4q93NUiQ1vHHwo1VPWxczW
+10000 Km - La Portuaria // 07/10/2022 18:21:04 // spotify:track:4ZAGKSnnEvEtX5gnj75z1r
+Pato Trabaja en una Carnicería - La Mississippi // 07/10/2022 18:25:00 // spotify:track:4XosBCachdwCTHwHaw29aP
+Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota // 07/10/2022 18:29:03 // spotify:track:1tW6LiJGXGlReuNP38wrKb
+Ansiedad de Buscar - Gustavo Cordera // 07/10/2022 18:31:19 // spotify:track:6fBA7ZAh4GvRQy6TVvtzrh
+A Las Nueve (En Vivo) [En Vivo] - No Te Va Gustar // 07/10/2022 18:35:03 // spotify:track:0CgpCtEPvyDizcg2p47VrU
+Tan Distintos (feat. Carlos Tarque) - Guasones // 07/10/2022 18:41:00 // spotify:track:5lVxdKsJkQClhBLK7lfurE
+Policía - 1915 // 07/10/2022 18:43:19 // spotify:track:0pDooPTaMUaDQfnBdbPdYo
+No Hieras Mi Corazón - Git // 07/10/2022 18:45:07 // spotify:track:65aGFtrhbgqYySHXCB5Yhb
+La Excepcion - Gustavo Cerati // 07/10/2022 18:53:08 // spotify:track:3yjXwM2zsKJKjsdxIe93pp
+The Safety Dance - Men Without Hats // 07/10/2022 18:57:24 // spotify:track:5O4NFbDqJ8SOfbjnIhdPDt
+El Mundo Cabe en una Canción - Fito Páez // 07/10/2022 19:01:08 // spotify:track:0fAkoHmERNn6PuRqfK7411
+30 Años - Conociendo Rusia // 07/10/2022 19:05:00 // spotify:track:2O7w0qgKXSLBg0mKV0XfOt
+5 O'Clock Swag - Amphibious Zoo Music // 07/10/2022 19:07:05 // spotify:track:5KiZzD8MaeLSRhP3eCBVPp
+Himno de Mi Corazón - Los Abuelos de la Nada // 07/10/2022 19:09:07 // spotify:track:2kIhana7Cw57qXztsUb7NN
+Pijamas - Babasónicos // 07/10/2022 19:13:12 // spotify:track:1AYgMuI3cgL5EjnfhnZVoq
+Nudos - Alejo y Valentin // 07/10/2022 19:17:21 // spotify:track:2xbzDOzq3F9WnbHrgDhixH
+No Quiero (En Vivo) - El Bordo // 07/10/2022 19:21:21 // spotify:track:5N9ADCOTyVPNaqB7kQ8zaN
+Me Amo - El Cuarteto de Nos // 07/10/2022 19:25:07 // spotify:track:651XWsuNnE4qduGWBWxTK0
+Ruleta (Acústico) - Ciro y los Persas // 07/10/2022 19:31:16 // spotify:track:0TezN9iBj5z9RilApkDRdb
+Dulce (feat. Abel Pintos) - Las Pastillas del Abuelo // 07/10/2022 19:35:18 // spotify:track:00qJ7UYGzz0STfuBaJzaP5
+Fuego (En Vivo Luna Park) - Intoxicados // 07/10/2022 19:41:04 // spotify:track:6q41qt2R9K8BXEzmzImEGO
+Desdudame - Cadena Perpetua // 07/10/2022 19:47:10 // spotify:track:49Nd2CQWICYF3GkKQpVk7S
+Promesas Sobre El Bidet - Charly Garcia // 07/10/2022 19:51:08 // spotify:track:2MXqrO1RBfek6RoijghYYp
+Lamento Boliviano - Turf & DLD // 07/10/2022 19:55:02 // spotify:track:69xAODJbGD64reFIgp8MxX
+Es El Momento - Los Llayras // 07/10/2022 19:57:06 // spotify:track:0FyHaowN1sGfSIgIESxFAO
+Más Fuerte Más Alto Más Lejos - Los Perez García // 07/10/2022 20:01:10 // spotify:track:6R8tDnEjgcwIkPsJ184dGt
+Por el Resto - Los Enanitos Verdes // 07/10/2022 20:05:02 // spotify:track:2tgUxOJHTjFxKHmfhyZGuS
+Desiree, Pt. 1 (En Vivo) - Guasones // 07/10/2022 20:09:10 // spotify:track:5OgEIE3YqZlG2M4VG6VtfN
+Ya Lo Sabés - Las Pelotas // 07/10/2022 20:15:09 // spotify:track:5mMFnSDg8Jz0BDToHPahlg
+La Vida (LFC) - Dr.Krápula // 07/10/2022 20:17:06 // spotify:track:5WHnh9oGuC6Bf2xWGHL10s
+Crecer - Attaque 77 // 07/10/2022 20:27:05 // spotify:track:6XZj6dcb7BOYcU5gHdFddM
+Sorojchi (En Vivo en La Ballena Azul) - Eruca Sativa // 07/10/2022 20:31:26 // spotify:track:3G2oKpZKebeikGbTBiidsb
+Hola Frank - Sumo // 07/10/2022 20:35:14 // spotify:track:7d4Ltr3lQAqxeh3IOBjP1o
+El Pibe de los Astilleros - La Sinfónica Rock // 07/10/2022 20:39:14 // spotify:track:6TCYR99lENd3Y1WZrrUVzm
+Gothic Towers - Adam Saunders & Mark Cousins // 07/10/2022 20:41:06 // spotify:track:701XTNhMEGZGx1CDZhxiZ2
+Corazon en Venta - Andrés Calamaro // 07/10/2022 20:43:08 // spotify:track:7CPkfENjzWcGlyUuME0Mm8
+Sentí Corazón - Andando Descalzo // 07/10/2022 20:49:05 // spotify:track:1EoTmG6quIzgqnjc4JewHk
+No Me Dejes Caer - Pier // 07/10/2022 21:01:14 // spotify:track:7wCalELbatgVcdYWHB6ybd
+Golpes en el Corazón - Los Auténticos Decadentes & Natalia Lafourcade // 07/10/2022 21:11:06 // spotify:track:5fXk93H1gUgNtZrDGiNLR4
+Encantan (feat. Enjambre) - Estelares // 07/10/2022 21:13:07 // spotify:track:4GrxCRx9CbGqTGqXqUfG8X
+Maelström - Fito Páez // 07/10/2022 21:15:19 // spotify:track:5JyeXhwxBQFEne4FxPbCxN
+Miguel Mateos - Zas - Mujer Sin Ley -  // 07/10/2022 21:23:12 // spotify:track:5hdYSCDg8N84EJyPXC5DiM
+Sushi en Lata - Marilina Bertoldi // 07/10/2022 21:27:11 // spotify:track:0ay8DzY6bSJ7Ok85oR34Mn
+Adonde Quiera Que Voy - Miguel Cantilo // 07/10/2022 21:31:17 // spotify:track:2xmpXKeMUJi7L1vjxJZYX3
+La Fuga - Ratones Paranoicos // 07/10/2022 21:37:11 // spotify:track:1I2Kpo5WUBw6MsmCglfthm
+No Estés Triste - 2 Minutos // 07/10/2022 21:43:09 // spotify:track:4Bm9mh2IiaMU77PuIqIvsR
+Espejito, Espejito - Don Osvaldo // 07/10/2022 21:45:05 // spotify:track:0Y1Kxsyz7jXv0G39PGul8F
+Music Spring of Dreams - way of freedom // 07/10/2022 21:51:06 // spotify:track:3out5LfshVjqh6JsE7kNhT
+Todo Cambia - Man Ray // 07/10/2022 21:53:10 // spotify:track:1yQROtOcfwxUraYMrloKvs
+Yo Te Amo - Fito Páez // 07/10/2022 21:55:11 // spotify:track:6EaWsloYMq6Qe0gxEsjpeU
+El Tigre y el Dragón (feat. Abel Pintos) - David Lebón // 07/10/2022 21:57:08 // spotify:track:2yJxwbwmGzOXkFLWKdaOV0
+Si No Tuvieras Miedo (feat. Mikel Izal & Alberto Pérez) - Super Ratones // 07/10/2022 21:59:07 // spotify:track:4i4PvnqYETKuFF1fLtS9YI
+Fruta Amarga - Karamelo Santo // 07/10/2022 22:03:15 // spotify:track:1xVviGd6Y0zujEmjiTzdiL
+Crece - Kapanga // 07/10/2022 22:07:11 // spotify:track:5kPdxVvjwCkDR27btIkzMp
+Un Chico en el Cuerpo de un Mayor - Los Caligaris // 07/10/2022 22:11:12 // spotify:track:1mr6dXlWBIiSjTY44bcEhs
+La Única Voz (En Vivo en Latinoamérica) [En Vivo] - No Te Va Gustar // 07/10/2022 22:15:06 // spotify:track:3UEs83vjOBXpzGUzCozijk
+Pequeños Sueños - Árbol // 07/10/2022 22:19:09 // spotify:track:4MjstyMMO5I6hch9GASIGb
+QUE SE MEJOREN - WOS // 07/10/2022 22:23:09 // spotify:track:1ikC0IM4iDcdPtVpQ22fik
+Prófugos - Soda Stereo // 07/10/2022 22:25:17 // spotify:track:1Tja3miBbbENpqIOAqGWXa
+El Hidrante - Angelito Tu Abuela // 07/10/2022 22:31:09 // spotify:track:6txEfIRwIQx4EUtlmWgj6q
+Amapola del 66 - Divididos // 07/10/2022 22:35:10 // spotify:track:5gK8OkRTsm5bmDh3GGlRBA
+Todos los Caballos Blancos - León Gieco // 07/10/2022 22:41:09 // spotify:track:0HdPeRnDocWB9vHBQdf0Cv
+Me Gusta - Ciro y los Persas // 07/10/2022 22:45:06 // spotify:track:67Q93kXygxCskeQiIP0V0j
+Como la Música Lenta - Richard Coleman // 07/10/2022 22:49:11 // spotify:track:23DgDxGsZPVcFvkvvqcfVU
+El Hidrante - Angelito Tu Abuela // 07/10/2022 22:53:09 // spotify:track:6txEfIRwIQx4EUtlmWgj6q
+Flaca huella - Los Cafres // 07/10/2022 22:55:07 // spotify:track:4ZEkXz3SCHOqV76GQVEIQ1
+Todo Pasa - Nonpalidece // 07/10/2022 22:59:14 // spotify:track:6enaauTFEL8gkmcLSxOB2J
+Ningun Hombre - El Natty Combo // 07/10/2022 23:03:06 // spotify:track:4Yos3etDpgoSqDlrORsRda
+Perfidia - La Portuaria // 07/10/2022 23:07:11 // spotify:track:3FdszHMbgPXCYxDYhW5B0N
+Adentro - Gustavo Cordera // 07/10/2022 23:11:06 // spotify:track:4JLK1mKIuMT1mVche9qURj
+La Rueda Que Mueve Al Mundo - Los Espíritus // 07/10/2022 23:13:11 // spotify:track:4iWRxjAMuDrBTCeFBrFDOr
+No Siquiera Entre Tus Brazos - Ella Es Tan Cargosa // 07/10/2022 23:19:08 // spotify:track:15IuOb99czEVjmWHXCEGBJ
+Medita Sol - Los Abuelos de la Nada // 07/10/2022 23:23:05 // spotify:track:2qq5pozrAM6njXGeWKqrcI
+Casi Desangelados - Indios // 07/10/2022 23:25:14 // spotify:track:2ofS0uJISw0slNuoZHNq53
+Tormento - Babasónicos // 07/10/2022 23:29:05 // spotify:track:1RQm3L3dkYbEJDmgJEOG71
+Pulpito - Babasónicos // 07/10/2022 23:33:04 // spotify:track:0OfvhtLM9If5axfxkRRb77
+Solo voy - La 25 // 07/10/2022 23:37:09 // spotify:track:4saEiUudiabEQd8NFX02kb
+Los Caballeros de la Quema - Oxidado (Radio Edit) [En Vivo - Provincia Emergente Estadio Unico de La Plata] -  // 07/10/2022 23:45:09 // spotify:track:32YkpyPZ6taMEEb8TBLcrr
+Si Supieras (Vivo) - Las Pelotas // 07/10/2022 23:51:08 // spotify:track:1aYjTQMHRpyhu0Yv0HBZuV
+Superficies de Placer - Virus // 07/10/2022 23:53:07 // spotify:track:36YmakOxI0KQmbB063IKYz
+Quiero Verte - NAFTA // 07/10/2022 23:57:08 // spotify:track:0nddhkhTtvxd7kh7QdnkFR
